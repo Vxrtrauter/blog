@@ -1,0 +1,32 @@
+## Blog, 15.12.24
+> !NOTE
+> This is my first time blogging,
+> so please ignore any formatting mistakes
+
+
+### start of the blog
+
+I'm currently sitting in the train, listening to some old 
+nostalgic music and thinking about future projects. Currently, i am 
+mainly focusing on two things: [An Archive & Launcher for old DDoS Scripts](https://github.com/Vxrtrauter/ddos-lib)
+and a [Downloader & Launcher for Pirated Games.](https://github.com/KeksNino/PirateLauncher)
+Both aren't finnished yet. I am currently mainly writing in Python,
+and i don't know if i should stick to it rn or start learning something else. 
+I feel like sticking to it a bit. Regarding future projects, i don't have too much on my mind. 
+Maybe writing my own POD Script with many different attack options to choose from?
+But what would that give me except a bit of experience? Nothing. 
+I am also privately working on a Discord Bot for archiving files, one key-feature is Bulk-Downloading
+specific files from GitHub and uploading them to Discord and GoFile, but i don't know if i'm
+gonna publish that yet, since i'm focusing less on that one. 
+
+I feel like making an iDDoS-Script as a next project would be a great step
+into learning more about cybersecurity, but i first need to get myself a server 
+which i can actually DDoS to test it then. One Device firing attacks also
+won't be able to do a lot of damage, so i'm probably gonna build a small
+network of "Bots" witb BYOB at first, and then integrate my "Payload" into it. 
+
+I just got the idea of making an similar Program to HoneCTRL, which is a 
+Windows Optimization Tool written entirely in Batch. I could write a similar Tool
+in Python, and make it compatible to multiple Operating Systems. 
+
+Cheers. 
